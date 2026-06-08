@@ -1,4 +1,4 @@
-# TJ Helm — NocturnalWisp
+# Thomas Helm — NocturnalWisp
 
 Software developer with a focus on systems architecture,
 full-stack product work, and the occasional language runtime.
