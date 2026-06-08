@@ -1,16 +1,27 @@
-## Hi there 👋
+# TJ Helm — NocturnalWisp
 
-<!--
-**NocturnalWisp/NocturnalWisp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer with a focus on systems architecture,
+full-stack product work, and the occasional language runtime.
 
-Here are some ideas to get you started:
+I gravitate toward greenfield problems, building engines,
+designing scripting systems, shipping real-time multiplayer
+features, and toward teams small enough that the work
+actually matters.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Four years of professional experience across EdTech, 3D
+tooling, and game systems. Currently open to senior/lead
+roles.
+
+---
+
+**Currently shipping**
+- **Lingolo** — Real time competitive French classroom game.
+  React, TypeScript, Firebase. [playlingolo.com](http://playlingolo.com/teachers)
+
+**Stack**
+TypeScript · C++ · C# · Rust · React · Firebase
+
+---
+
+📍 Alberta, Canada — remote across North America
+🔗 [Portfolio](https://thomashelm.ca)
